@@ -49,6 +49,7 @@ social_media_crisis_project/
 ### 1. Clone the Repository
 
 git clone https://github.com/akshitasankhwar/social-media-sentiment-crisis-analysis.git
+
 cd social-media-sentiment-crisis-analysis
 
 
@@ -63,9 +64,13 @@ Create or edit the `config.py` file and add your credentials:
 
 ```python```
 API_KEY = "your_api_key"
+
 API_SECRET = "your_api_secret"
+
 ACCESS_TOKEN = "your_access_token"
+
 ACCESS_TOKEN_SECRET = "your_access_token_secret"
+
 BEARER_TOKEN = "your_bearer_token" 
 
 🚀 How to Run
@@ -89,6 +94,60 @@ python analysis/crisis_detector.py
 Step 5: Run the Streamlit Dashboard
 
 streamlit run main.py
+
+🧠 Future Improvements
+
+Add support for more platforms like Reddit or Instagram
+
+Enable real-time streaming analysis
+
+Improve crisis detection with machine learning
+
+Add trend analysis over time
+
+
+
+
+👩‍💻 Author
+
+Akshita Sankhwar
+
+B.Tech Student | Social Media Data Analyst
+
+Contact: akshitasannkhwar24@gmail.com
+
+
+📜 License
+
+
+This project is for educational purposes.
+
+
+---
+
+#### 📌 4. Save the File
+
+- Press `Ctrl + S` (or click **File > Save**).
+
+---
+
+#### 📌 5. Preview Your README (Optional)
+
+If you want to see how it looks:
+
+- Right-click anywhere in `README.md`.
+- 
+- Click **“Open Preview”** or press `Ctrl + Shift + V`.
+
+---
+
+If you still face issues, I can help via screenshot or video explanation too — just let me know!
+
+
+
+
+
+
 
 
 
