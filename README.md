@@ -95,6 +95,24 @@ Step 5: Run the Streamlit Dashboard
 
 streamlit run main.py
 
+
+## 📊 Dashboard Preview
+
+
+
+### 1. Sentiment Analysis Plot
+![Sentiment Plot](visualization/dashboard1.png)
+
+### 2. Crisis Pie Chart
+![Crisis Pie Chart](visualization/dashboard2.png)
+
+### 3. Streamlit Dashboard
+![Dashboard Screenshot](visualization/dashboard3.png)
+
+
+
+
+
 🧠 Future Improvements
 
 Add support for more platforms like Reddit or Instagram
